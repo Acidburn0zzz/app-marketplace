@@ -1,10 +1,1 @@
-<svg version="1.1" class="clearos-svg clearfoundation app-vendor-clearcenter app-free app-category-system app-sub-category-base" viewBox="0 0 400 400" preserveAspectRatio="xMinYMin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
-<path style="fill:#AA0707;" d="M91.666,184.647"/>
-<path style="fill:#AA0707;" d="M123.245,247.805"/>
-<path style="fill:#AA0707;" d="M91.666,184.647"/>
-<path style="fill:#AA0707;" d="M123.245,247.805"/>
-<path style="fill:#686969;" d="M299.316,107.738h-19.504c-13.347-36.68-48.52-62.875-89.813-62.875
-	c-41.296,0-76.47,26.198-89.815,62.881c-54.62,0.27-98.816,44.626-98.816,99.31c0,54.851,44.465,99.316,99.316,99.316h36.578
-	c7.108,28.028,32.499,48.767,62.738,48.767c30.24,0,55.63-20.738,62.739-48.767h36.578c54.85,0,99.315-44.466,99.315-99.316
-	S354.166,107.738,299.316,107.738z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="clearos-svg clearfoundation app-vendor-clearcenter app-free app-category-system app-sub-category-base" preserveAspectRatio="xMinYMin" version="1.1" viewBox="0 0 400 400"><path fill="#AA0707" d="M91.666,184.647"/><path fill="#AA0707" d="M123.245,247.805"/><path fill="#AA0707" d="M91.666,184.647"/><path fill="#AA0707" d="M123.245,247.805"/><path fill="#686969" d="M299.316,107.738h-19.504c-13.347-36.68-48.52-62.875-89.813-62.875	c-41.296,0-76.47,26.198-89.815,62.881c-54.62,0.27-98.816,44.626-98.816,99.31c0,54.851,44.465,99.316,99.316,99.316h36.578	c7.108,28.028,32.499,48.767,62.738,48.767c30.24,0,55.63-20.738,62.739-48.767h36.578c54.85,0,99.315-44.466,99.315-99.316	S354.166,107.738,299.316,107.738z"/></svg>
